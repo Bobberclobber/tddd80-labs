@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">My Module</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="list_option_1">Option 1</string>
+    <string name="list_option_2">Option 2</string>
+    <string name="list_option_3">Option 3</string>
+    <string name="list_option_4">Option 4</string>
+    <string name="list_option_5">Option 5</string>
+    <string name="list_option_6">Option 6</string>
+    <string name="list_option_7">Option 7</string>
+    <string name="info_list_test">Info List</string>
+    <string name="info_title_test">Info Title</string>
+
+</resources>

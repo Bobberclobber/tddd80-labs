@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="se.liu.ida.josfa969">
+
+    <application
+        android:allowBackup="true"
+        android:icon="@drawable/ic_launcher"
+        android:label="@string/app_name"
+        android:theme="@style/AppTheme">
+
+        <activity
+            android:name="se.liu.ida.josfa969.Lab1"
+            android:label="@string/main_activity_name">
+
+            <intent-filter>
+                <!-- Sets this activity as the main activity -->
+                <action android:name="android.intent.action.MAIN" />
+                <!-- Indicates that this activity can be launched from the launcher icon -->
+                <category android:name="android.intent.category.LAUNCHER" />
+
+            </intent-filter>
+
+        </activity>
+
+    </application>
+
+</manifest>
